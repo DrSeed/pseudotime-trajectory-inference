@@ -1,0 +1,4 @@
+branch,n_cells,mean_pseudotime
+trunk,120,0.6328924084784294
+branch_A,120,0.7468260925104404
+branch_B,120,0.7130284163811911
